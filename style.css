@@ -1,0 +1,87 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+.bucket-structure{
+    display: flex;
+    width: 100%;
+    margin-bottom: 100px;
+    margin-left: 1%;
+}
+.image-margin{
+    width: 50%;
+}
+.image-margin img{
+    width: 70%;
+    padding-left: 30%;
+}
+.heading-color{
+    color: indigo;
+}
+.quotes-color{
+    color: rgb(95, 86, 86);
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(indigo, skyblue);
+    padding: 10px 15px;
+    color:white;
+    font-weight: 400;
+    border-radius: 20px;
+}
+.back-image{
+    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-size: cover;
+    padding: 5% 10% 10% 20%;
+    padding-left: 60%;
+}ddfdsfhg
+.bucket-font-alignment{
+    margin: 0 auto;
+    text-align: justify;
+}
+.about-section{
+    text-align: center;
+}
+.food-menu-chart{
+    width: 30%;
+    border-radius: 30px;
+    box-shadow: 5px 5px 20px indigo;
+}
+#food-menu{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#food-menu img{
+    width: 100%;
+}
+.followers-section{
+    width: 100%;
+}
+.followers-list{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    box-shadow: 0 10px 15px 4px rgba(141, 70, 192, 0.57);
+    border-radius: 10px;
+}
+.food-container{
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+    margin: 0 auto;
+}
+footer{
+    background-color: rgb(58, 97, 180);
+    text-align: center;
+    padding: 5rem 0;
+    color: white;
+}
